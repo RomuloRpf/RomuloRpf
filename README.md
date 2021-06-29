@@ -3,8 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RomuloRpf" alt="RomuloRpf" /> </p>
 
 - 🌱 I’m currently learning Python, HTML, CSS, Node.js, Javascript
-- 📫 How to reach me: **romulofonseca02014@gmail.com**
 <!--
+- 📫 How to reach me:
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
